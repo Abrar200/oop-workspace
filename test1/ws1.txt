@@ -1,0 +1,11 @@
+1. What is the purpose of the log message you supply to your git commit?
+Answer: The purpose of the log message in a git commit is to provide a brief description of the changes made in that commit.
+
+2. What do you think makes a good commit message?
+Answer: A good commit message is concise, clear, and descriptive, summarizing the changes and their purpose.
+
+3. When and how often should I be committing my work?
+Answer: You should commit your work frequently, ideally after every significant change or milestone, to ensure changes are well-documented and reversible.
+
+4. True or False, you should commit all files (including binaries, images, and log files) to Git.
+Answer: False, you should avoid committing unnecessary files like binaries, images, and log files to keep the repository clean and efficient.
